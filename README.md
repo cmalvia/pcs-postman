@@ -9,6 +9,7 @@ To use these Collections and Environment, there are a few setup pieces after imp
 
 ![3](./Images/Import3.png)
 
+
 1. Set some [Postman Environment variables](https://learning.postman.com/docs/sending-requests/variables/). You will need to set:
     1. api-endpoint
     1. compute-api-endpoint
