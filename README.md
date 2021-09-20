@@ -33,7 +33,6 @@ To use these Collections and Environment, there are a few setup pieces after imp
 1. Depending on what Admin console you see when you log in will determine which API Endpoint you will use. 
    1. The corresponding value below will replace the **api-endpoint** variable.
 
-
 Prisma Cloud Admin Console | 	Prisma Cloud API Endpoint
 ------------ | -------------
 https://app.prismacloud.io	| https://api.prismacloud.io
